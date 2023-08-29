@@ -1,4 +1,4 @@
-export const BASE_PATH = "https://beast-bot-dash.online"
+export const BASE_PATH = "130.61.154.218:8888"
 
 export function get(path: string) {
 
